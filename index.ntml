@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Keio Econ Hirose Seminar</title>
+    <link rel="stylesheet" href="stylesheet3.css">
+    <link rel="stylesheet" href="responsive3.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <a href="http://www.econ.keio.ac.jp/">慶應義塾大学経済学部</a>
+        <div class="header-right">
+          <a href="#">Home</a>
+          <a href="#">Professor</a>
+          <a href="#">Member</a>
+          <a href="#">Major field</a>
+          <a href="#">Recruit</a>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+       <div class="heading">
+      　<h1>MEMBER</h1>
+       </div>
+       <div class="main-centor">
+         <div class="main-left">
+           <h2>1期</h2>
+             <p>加島大嗣　齋藤ゆき彦　清木智之　竹野寛　牧寛久　中村拓未　西内広和　　西尾俊洋　望月怜</p>
+           <h2>2期</h2>
+             <p>阿野喜史　寺本和弘　前田和馬　松坂秀太郎　大和正樹</p>
+           <h2>3期</h2>
+             <p>小池泰貴　大東誠　須藤優太　榑林明日香　橋本龍一郎</p>
+           <h2>4期</h2>
+             <p>保里俊介　財津薫平　関谷裕鏡　高野隼一　荻野秀明　川邉美帆　藤村和輝　橋本壮広
+</p>
+           
+           <h2>5期(4年)</h2>
+             <p>中澤俊太</p>
+           <h2>6期(3年)</h2>
+             <p>弦間　大(代表)　眞智　恒平(渉外)　安孫子　創(広報)</p>
+        　</div>
+
+
+       </div>
+       <div class="main-bottom">
+　　　　　　　 <p>廣瀬ゼミでは非常にアカデミックな内容を扱っています。OBOGの方々の多くは研究職や行員、コンサル、エコノミスト等の経済学に深く関わる職種でご活躍されており、現役ゼミ生も日々　学問に向き合わんと格闘しております。</p>
+       </div>
+      </div>
+    </main>
+    <footer>
+      <div class="container">
+        <p>copyright©2018&nbsp;Hirose seminar&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
